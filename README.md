@@ -26,4 +26,4 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 
 # Acknowledgement
 
-This research is a part of the HEIMDALL project, funded by the BPI as part of the AAP I-Demo.
+This research is a part of the HEIMDALL project, funded by the BPI as part of the AAP I-Demo. Additionally, the work was supported by the European Union’s Horizon Europe research and innovation program under Grant Agreement No 101094831 for the Converge-Telecommunications and Computer Vision Convergence Tools for Research Infrastructures project.
