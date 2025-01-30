@@ -9,17 +9,12 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 ## Real event-based datasets for human-centered applications
 
 | Year | Authors | Name | #Videos | #People | Modalities | Application | #Classes |
-
+|------|---------|------|------------|----------|------------|-------------|-----------|
 | 2019 | Miao et al. [Link](https://example.com) | Action Dataset TUM | 291 | 15 | EV | Action Recognition | 10
-
 | 2019 | Miao et al. [Link](https://example.com) | Action Dataset TUM | 291 | 15 | EV | Action Recognition | 10
-
 | 2019 | Miao et al. [Link](https://example.com) | Action Dataset TUM | 291 | 15 | EV | Action Recognition | 10
-
 | 2019 | Miao et al. [Link](https://example.com) | Action Dataset TUM | 291 | 15 | EV | Action Recognition | 10
-
 | 2019 | Miao et al. [Link](https://example.com) | Action Dataset TUM | 291 | 15 | EV | Action Recognition | 10
-
 | 2019 | Miao et al. [Link](https://example.com) | Action Dataset TUM | 291 | 15 | EV | Action Recognition | 10
 
 
