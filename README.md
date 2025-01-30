@@ -11,7 +11,7 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 
 | Year | Authors | Name | #Videos | #People | Modalities | Application | #Classes |
 |------|---------|------|------------|----------|------------|-------------|-----------|
-| 2019 | [Miao et al.](https://example.com) | Action Dataset TUM | 291 | 15 | EV | Action Recognition | 10
+| 2019 | [Miao et al.](#miao). | Action Dataset TUM | 291 | 15 | EV | Action Recognition | 10
 | 2019 | Goyal et al. [Link](https://example.com) | DHP19 | 2244 | 17 | EV | Pose Estimation | -
 | 2019 | Wang et al. [Link](https://example.com) | DVS128-Gait-Day | 4000 | 20 | EV | Gait Recognition | -
 | 2019 | Wang et al. [Link](https://example.com) | DVS128-Gait-Night | 4000 | 20 | EV | Gait Recognition | -
@@ -91,7 +91,7 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 
 # Applications
 
-## Applications of event cameras for human data along with an exhaustive selection of relevant works for each category. The applications are categorized into two main areas: face and body.
+### Applications of event cameras for human data along with an exhaustive selection of relevant works for each category. The applications are categorized into two main areas: face and body.
 
 ### Body
 
@@ -105,7 +105,9 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 
 # Citing
 
--- Coming soon --
+## Bibliography
+
+- <a id="miao"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
 
 # Acknowledgement
 
