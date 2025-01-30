@@ -48,27 +48,24 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 | Year | Authors | Name | #Videos | #People | Application | #Classes |
 |------|---------|------|---------|---------|-------------|----------|
 | 2019 | Wang et al. [Link](https://example.com) | EV-CASIA-B | 8184 | 124 | Gait Recognition | -
-| 2019 | Bi et al. [Link](https://example.com) | HMDB51-DVS | 6766 | - | Action Recognition | 51
-| 2019 | Bi et al. [Link](https://example.com) | UCF101-DVS | 13320 | - | Action Recognition | 101
-| 2019 | Plizzari et al. [Link](https://example.com) | N-EPIC-Kitchens | 64 | - | Action Recognition | 8
-| 2021 | Zou et al. [Link](https://example.com) | SynEventHPD | 9197 | 47 | Pose Estimation | -
-| 2022 | Goyal et al. [Link](https://example.com) | eH36m | 748 | 7 | Pose Estimation | -
+| 2020 | Bi et al. [Link](https://example.com) | HMDB51-DVS | 6766 | - | Action Recognition | 51
+| 2020 | Bi et al. [Link](https://example.com) | UCF101-DVS | 13320 | - | Action Recognition | 101
+| 2022 | Plizzari et al. [Link](https://example.com) | N-EPIC-Kitchens | 64 | - | Action Recognition | 8
+| 2023 | Zou et al. [Link](https://example.com) | SynEventHPD | 9197 | 47 | Pose Estimation | -
+| 2023 | Goyal et al. [Link](https://example.com) | eH36m | 748 | 7 | Pose Estimation | -
 
 
 ### Face Datasets
 
-| Year | Authors | Name | #Videos | #People | Modalities | Application | #Classes |
-|------|---------|------|------------|----------|------------|-------------|-----------|
-| 2019 | Miao et al. [Link](https://example.com) | Action Dataset TUM | 291 | 15 | EV | Action Recognition | 10
-| 2019 | Goyal et al. [Link](https://example.com) | DHP19 | 2244 | 17 | EV | Pose Estimation | -
-| 2019 | Wang et al. [Link](https://example.com) | DVS128-Gait-Day | 4000 | 20 | EV | Gait Recognition | -
-| 2019 | Wang et al. [Link](https://example.com) | DVS128-Gait-Night | 4000 | 20 | EV | Gait Recognition | -
-| 2021 | Liu et al. [Link](https://example.com) | DailyAction-DVS | 1440 | 15 | EV | Action Recognition | 12
-| 2022 | Eddine and Dugelay [Link](https://example.com) | Gait3 | 168 | 56 | RGB-EV-TH | Gait Recognition | -
-| 2023 | Gao et al. [Link](https://example.com) | THU-E-ACT-50 | 10500 | 105 | EV | Action Recognition | 50
-| 2023 | Gao et al. [Link](https://example.com) | THU-E-ACT-50-CHL | 2330 | 18 | EV | Action Recognition | 50
-| 2024 | Wang et al. [Link](https://example.com) | DailyDVS-200 | 22000 | 46 | RGB-EV | Action Recognition | 200
-| 2024 | Gao et al. [Link](https://example.com) | THU-MV-E-ACT-50| 31500 | 105 | EV | Action Recognition | 50
+| Year | Authors | Name | #Videos | #People | Application |
+|------|---------|------|------------|----------|---------|
+| 2022 | Moreira et al. [Link](https://example.com) | SynFED | 6536 | 30 | Identity Recognition 
+| 2023 | Barchid et al. [Link](https://example.com) | ADFES | 198 | 22 | Face Expression Recognition
+| 2023 | Barchid et al. [Link](https://example.com) | Oulu-CASIA | 480 | 80 | Face Expression Recognition
+| 2023 | Barchid et al. [Link](https://example.com), Verschae and Bugueno-Cordova [Link](https://example.com) | e-CK+ | 327 | 93 | Face Expression Recognition
+| 2023 | Barchid et al. [Link](https://example.com), Verschae and Bugueno-Cordova [Link](https://example.com) |e-MMI | 2900+ | 75 | Face Expression Recognition
+| 2023 | Ryan et al. [Link](https://example.com) | - | - | 5 | Multitask Facial Analysis
+| 2024 | Tan et al. [Link](https://example.com) | DVS-LRW100 | 107664 | - | Lip Reading
 
 # Event Data Representations
 
