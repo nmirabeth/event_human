@@ -111,18 +111,18 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 
 # Applications
 
-### Applications of event cameras for human data along with an exhaustive selection of relevant works for each category. The applications are categorized into two main areas: face and body.
+### Applications of event cameras for human data along with an exhaustive selection of relevant work
 
 ### Body
 
 | Human Tracking | Gait Recognition | Action Recognition | Pose Estimation |
 |------------------------------------------|-------------------------------------|-----------------------------------------------|------------------------------|
-| [Liu et al. (2021)](#liu2021)            | [Wang et al. (2021)](#wang2021)     | [Li et al. (2019)](#li2019)                   | [Xu et al. (2020)](#xu2020)                 
-| [Barchid et al. (2023)](#barchid2023)    | [Eisl et al. (2023)](#eisl2023)     | [Wang et al. (2019)](#wang2019)               | [de Blegiers et al. (2023)](#deblegiers2023) 
-| [Ren et al. (2023)](#liu2021)            | [Fu and Yan (2023)](#fun2023)       | [Sokolova and Konushin (2019)](#sokolova2019) | [Zou et al. (2023)](#zou2023)              
-| [Bulzomi et al. (2023)](#liu2021)        | [Gao et al. (2024)](#gao2024)       | [Ryan et al. (2021)](#ryan2021)               | [Cultrera et al. (2023)](#cultrera2024)     
-| [Tao et al. (2024)](#liu2021)            |                                     | [Banerjee et al. (2022)](#banerjee2022)       |                                                  
-| [Vicente-Sola et al. (2025)](#liu2021)   |                                     | [Becattini et al. (2022)](#becattini2022)     |                                                   
+| [Eisl et al. (2023)](#eisl2023)            | [Wang et al. (2021)](#wang2021)     | [Li et al. (2019)](#li2019)                   | [Xu et al. (2020)](#xu2020)                 
+| [Xu et al. (2020)](#xu2020)    | [Eisl et al. (2023)](#eisl2023)     | [Wang et al. (2019)](#wang2019)               | [de Blegiers et al. (2023)](#deblegiers2023) 
+|             | [Fu and Yan (2023)](#fun2023)       | [Sokolova and Konushin (2019)](#sokolova2019) | [Zou et al. (2023)](#zou2023)              
+|        | [Gao et al. (2024)](#gao2024)       | [Ryan et al. (2021)](#ryan2021)               | [Cultrera et al. (2023)](#cultrera2024)     
+|           |                                     | [Banerjee et al. (2022)](#banerjee2022)       |                                                  
+|   |                                     | [Becattini et al. (2022)](#becattini2022)     |                                                   
 |                                          |                                     | [Moreira et al. (2022)](#moreira2022)         |                                              
 |                                          |                                     | [Plizzari et al. (2022)](#plizzari2022)       |                                                     
 |                                          |                                     | [Ryan et al. (2023)](#ryan2023)               |                                                  
@@ -142,13 +142,13 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 
 | Face Detection | Identity Recognition | Lip Reading | Eye Blinking & Gaze | Microexpression & Emotion Recognition |
 |------------------------------------------|-------------------------------------|-----------------------------------------------|----------------------------------------------|------------------------------|
-| [Liu et al. (2021)](#liu2021)            | [Wang et al. (2021)](#wang2021)     | [Li et al. (2019)](#li2019)                   | [Xu et al. (2020)](#xu2020)                  | [Barua et al. (2016)](#barua2016) 
-| [Barchid et al. (2023)](#barchid2023)    | [Eisl et al. (2023)](#eisl2023)     | [Wang et al. (2019)](#wang2019)               | [de Blegiers et al. (2023)](#deblegiers2023) | [Savran et al. (2018)](#savran2018)
-| [Ren et al. (2023)](#liu2021)            | [Fu and Yan (2023)](#fun2023)       | [Sokolova and Konushin (2019)](#sokolova2019) | [Zou et al. (2023)](#zou2023)                | [Lenz et al. (2020)](#lenz2020)
-| [Bulzomi et al. (2023)](#liu2021)        | [Gao et al. (2024)](#gao2024)       | [Ryan et al. (2021)](#ryan2021)               | [Cultrera et al. (2023)](#cultrera2024)      | [Chen et al. (2020)](#chen2020)
-| [Tao et al. (2024)](#liu2021)            |                                     | [Banerjee et al. (2022)](#banerjee2022)       |                                              | [Angelopoulos et al. (2020)](#angel2020)             
-| [Vicente-Sola et al. (2025)](#liu2021)   |                                     | [Becattini et al. (2022)](#becattini2022)     |                                              | [Eddine and Dugelay (2022)](#dugelay2022)           
-|                                          |                                     | [Moreira et al. (2022)](#moreira2022)         |                                              | [Ren et al. (2023)](#ren2023) 
+| [Barua et al. (2016)](#barua2016)            | [Wang et al. (2021)](#wang2021)     | [Li et al. (2019)](#li2019)                   | [Xu et al. (2020)](#xu2020)                  | [Barua et al. (2016)](#barua2016) 
+| [Lenz et al. (2020)](#lenz2020)    | [Eisl et al. (2023)](#eisl2023)     | [Wang et al. (2019)](#wang2019)               | [de Blegiers et al. (2023)](#deblegiers2023) | [Savran et al. (2018)](#savran2018)
+| [Ryan et al. (2021)](#ryan2021)            | [Fu and Yan (2023)](#fun2023)       | [Sokolova and Konushin (2019)](#sokolova2019) | [Zou et al. (2023)](#zou2023)                | [Lenz et al. (2020)](#lenz2020)
+| [Bissarinova et al. (2023)](#bissa2023)        | [Gao et al. (2024)](#gao2024)       | [Ryan et al. (2021)](#ryan2021)               | [Cultrera et al. (2023)](#cultrera2024)      | [Chen et al. (2020)](#chen2020)
+| [Ryan et al. (2023)](#ryan2023)            |                                     | [Banerjee et al. (2022)](#banerjee2022)       |                                              | [Angelopoulos et al. (2020)](#angel2020)             
+| [Himmi et al. (2024)](#himmi2024)   |                                     | [Becattini et al. (2022)](#becattini2022)     |                                              | [Eddine and Dugelay (2022)](#dugelay2022)           
+| [Iddrisu et al.(2024)(#iddrisu2024)                                         |                                     | [Moreira et al. (2022)](#moreira2022)         |                                              | [Ren et al. (2023)](#ren2023) 
 |                                          |                                     | [Plizzari et al. (2022)](#plizzari2022)       |                                              | [Guo and Huang (2023)](#hang2023)            
 |                                          |                                     | [Ryan et al. (2023)](#ryan2023)               |                                              | [Savran (2023)](#savran2023)            
 |                                          |                                     | [Gao et al. (2023)](#gao2023)                 |                                              | [Himmi et al. (2024)](#himmi2024)  
