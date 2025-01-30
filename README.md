@@ -62,8 +62,8 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 | 2022 | [Moreira et al.](#miao)| SynFED | 6536 | 30 | Identity Recognition 
 | 2023 | [Barchid et al.](#miao) | ADFES | 198 | 22 | Face Expression Recognition
 | 2023 | [Barchid et al.](#miao) | Oulu-CASIA | 480 | 80 | Face Expression Recognition
-| 2023 | [Barchid et al.](#miao)  [Verschae and Bugueno-Cordova](#miao) | e-CK+ | 327 | 93 | Face Expression Recognition
-| 2023 | [Barchid et al.](#miao)  [Verschae and Bugueno-Cordova](#miao) |e-MMI | 2900+ | 75 | Face Expression Recognition
+| 2023 | [Barchid et al.](#miao) ; [Verschae and Bugueno-Cordova](#miao) | e-CK+ | 327 | 93 | Face Expression Recognition
+| 2023 | [Barchid et al.](#miao) ; [Verschae and Bugueno-Cordova](#miao) |e-MMI | 2900+ | 75 | Face Expression Recognition
 | 2023 | [Ryan et al.](#miao) | - | - | 5 | Multitask Facial Analysis
 | 2024 | [Tan et al.](#miao) | DVS-LRW100 | 107664 | - | Lip Reading
 
@@ -89,6 +89,19 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 |-----|----------|-----|--------------|--------------|
 
 
+
+| SNN                          | Graph NN                     | CNN                          | Transformers                 | Not AI-based                 |
+|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
+| [Liu et al. (2021)](#liu2021) | [Wang et al. (2021)](#wang2021) | [Li et al. (2019)](#li2019)   |                              | [Barna et al. (2016)](#barna2016) |
+| [Barchid et al. (2023)](#barchid2023) | [Eisl et al. (2023)](#eisl2023) | [Wang et al. (2019)](#wang2019) |                              | [Savran et al. (2018)](#savran2018) |
+|                              |                              | [Sokolova and Konushin (2019)](#sokolova2019) |                              | [Lenz et al. (2020)](#lenz2020) |
+|                              |                              | [Ryan et al. (2021)](#ryan2021) |                              |                              |
+|                              |                              | [Banerjee et al. (2022)](#banerjee2022) |                              |                              |
+|                              |                              | [Becattini et al. (2022)](#becattini2022) |                              |                              |
+|                              |                              | [Moreira et al. (2022)](#moreira2022) |                              |                              |
+
+
+
 # Applications
 
 ### Applications of event cameras for human data along with an exhaustive selection of relevant works for each category. The applications are categorized into two main areas: face and body.
@@ -108,6 +121,20 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 ## Bibliography
 
 - <a id="miao"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
+- <a id="liu2021"></a>Liu et al. (2021). [Title of the paper](URL_to_paper).
+- <a id="barchid2023"></a>Barchid et al. (2023). [Title of the paper](URL_to_paper).
+- <a id="wang2021"></a>Wang et al. (2021). [Title of the paper](URL_to_paper).
+- <a id="eisl2023"></a>Eisl et al. (2023). [Title of the paper](URL_to_paper).
+- <a id="li2019"></a>Li et al. (2019). [Title of the paper](URL_to_paper).
+- <a id="barna2016"></a>Barna et al. (2016). [Title of the paper](URL_to_paper).
+- <a id="savran2018"></a>Savran et al. (2018). [Title of the paper](URL_to_paper).
+- <a id="lenz2020"></a>Lenz et al. (2020). [Title of the paper](URL_to_paper).
+- <a id="sokolova2019"></a>Sokolova and Konushin (2019). [Title of the paper](URL_to_paper).
+- <a id="ryan2021"></a>Ryan et al. (2021). [Title of the paper](URL_to_paper).
+- <a id="banerjee2022"></a>Banerjee et al. (2022). [Title of the paper](URL_to_paper).
+- <a id="becattini2022"></a>Becattini et al. (2022). [Title of the paper](URL_to_paper).
+- <a id="moreira2022"></a>Moreira et al. (2022). [Title of the paper](URL_to_paper).
+
 
 # Acknowledgement
 
