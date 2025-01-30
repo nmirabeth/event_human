@@ -92,7 +92,7 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 
 | SNN                          | Graph NN                     | CNN                          | Transformers                 | Not AI-based                 |
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-| [Liu et al. (2021)](#liu2021) | [Wang et al. (2021)](#wang2021) | [Li et al. (2019)](#li2019)   |                              | [Barna et al. (2016)](#barna2016) |
+| [Liu et al. (2021)](#liu2021) | [Wang et al. (2021)](#wang2021) | [Li et al. (2019)](#li2019)   |   [Xu et al. (2020)](#xu2020)                         | [Barua et al. (2016)](#barua2016) |
 | [Barchid et al. (2023)](#barchid2023) | [Eisl et al. (2023)](#eisl2023) | [Wang et al. (2019)](#wang2019) |                              | [Savran et al. (2018)](#savran2018) |
 |                              |                              | [Sokolova and Konushin (2019)](#sokolova2019) |                              | [Lenz et al. (2020)](#lenz2020) |
 |                              |                              | [Ryan et al. (2021)](#ryan2021) |                              |                              |
@@ -126,7 +126,8 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 - <a id="wang2021"></a>Wang et al. (2021). [Title of the paper](URL_to_paper).
 - <a id="eisl2023"></a>Eisl et al. (2023). [Title of the paper](URL_to_paper).
 - <a id="li2019"></a>Li et al. (2019). [Title of the paper](URL_to_paper).
-- <a id="barna2016"></a>Barna et al. (2016). [Title of the paper](URL_to_paper).
+- <a id="xu2020"></a>Xu et al. (2020). [Title of the paper](URL_to_paper).
+- <a id="barua2016"></a>Barua et al. (2016). [Title of the paper](URL_to_paper).
 - <a id="savran2018"></a>Savran et al. (2018). [Title of the paper](URL_to_paper).
 - <a id="lenz2020"></a>Lenz et al. (2020). [Title of the paper](URL_to_paper).
 - <a id="sokolova2019"></a>Sokolova and Konushin (2019). [Title of the paper](URL_to_paper).
