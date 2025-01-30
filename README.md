@@ -83,13 +83,25 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 
 # Model Architecture
 
-## Papers presented in this survey, classified by the type of AI architecture used for their models
+### Papers presented in this survey, classified by the type of AI architecture used for their models
+
+| SNN | Graph NN | CNN | Transformers | Not AI-based |
+|-----|----------|-----|--------------|--------------|
+
 
 # Applications
 
-## The table presents applications of event cameras for human data along with an exhaustive selection of relevant works for each category. The applications are categorized into two main areas: face and body.
+## Applications of event cameras for human data along with an exhaustive selection of relevant works for each category. The applications are categorized into two main areas: face and body.
 
---Here Table 1--
+### Body
+
+| Human Tracking | Gait Recognition | Action Recognition | Pose Estimation |
+|----------------|------------------|--------------------|-----------------|
+
+### Face
+
+| Face Detection | Identity Recognition | Lip Reading | Eye Blinking & Gaze | Microexpression & Emotion Recognition |
+|----------------|----------------------|-------------|---------------------|---------------------------------------|
 
 # Citing
 
