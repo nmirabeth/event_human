@@ -19,23 +19,27 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 | 2022 | Eddine and Dugelay [Link](https://example.com) | Gait3 | 168 | 56 | RGB-EV-TH | Gait Recognition | -
 | 2023 | Gao et al. [Link](https://example.com) | THU-E-ACT-50 | 10500 | 105 | EV | Action Recognition | 50
 | 2023 | Gao et al. [Link](https://example.com) | THU-E-ACT-50-CHL | 2330 | 18 | EV | Action Recognition | 50
-| 2024 | Wang et al. [Link](https://example.com) | DailyDVS-200 | 22000 | 46 | RGB-EV | Action Recognition | 200
-| 2024 | Gao et al. [Link](https://example.com) | THU-MV-E-ACT-50| 31500 | 105 | EV | Action Recognition | 50
+| 2025 | Wang et al. [Link](https://example.com) | DailyDVS-200 | 22000 | 46 | RGB-EV | Action Recognition | 200
+| 2024 | Gao et al. [Link](https://example.com) | THU-MV-E-ACT-50 | 31500 | 105 | EV | Action Recognition | 50
 
 ### Face Datasets
 
-| Year | Authors | Name | #Videos | #People | Modalities | Application | #Classes |
-|------|---------|------|------------|----------|------------|-------------|-----------|
-| 2019 | Miao et al. [Link](https://example.com) | Action Dataset TUM | 291 | 15 | EV | Action Recognition | 10
-| 2019 | Goyal et al. [Link](https://example.com) | DHP19 | 2244 | 17 | EV | Pose Estimation | -
-| 2019 | Wang et al. [Link](https://example.com) | DVS128-Gait-Day | 4000 | 20 | EV | Gait Recognition | -
-| 2019 | Wang et al. [Link](https://example.com) | DVS128-Gait-Night | 4000 | 20 | EV | Gait Recognition | -
-| 2021 | Liu et al. [Link](https://example.com) | DailyAction-DVS | 1440 | 15 | EV | Action Recognition | 12
-| 2022 | Eddine and Dugelay [Link](https://example.com) | Gait3 | 168 | 56 | RGB-EV-TH | Gait Recognition | -
-| 2023 | Gao et al. [Link](https://example.com) | THU-E-ACT-50 | 10500 | 105 | EV | Action Recognition | 50
-| 2023 | Gao et al. [Link](https://example.com) | THU-E-ACT-50-CHL | 2330 | 18 | EV | Action Recognition | 50
-| 2024 | Wang et al. [Link](https://example.com) | DailyDVS-200 | 22000 | 46 | RGB-EV | Action Recognition | 200
-| 2024 | Gao et al. [Link](https://example.com) | THU-MV-E-ACT-50| 31500 | 105 | EV | Action Recognition | 50
+| Year | Authors | Name | #Videos | #People | Modalities | Application |
+|------|---------|------|------------|----------|------------|-------------|
+| 2016 | Barua et al. [Link](https://example.com) | - | - | 40 | EV | Face Detection 
+| 2019 | Li et al. [Link](https://example.com) | - | 34000 | 34 | EV-audio | Lip Reading 
+| 2020 | Angelopoulos et al. [Link](https://example.com) | - | 24 | 24 | EV | Eye gaze tracking
+| 2020 | Chen et al. [Link](https://example.com) | EDDD | 260 | 26 | EV | Drowsiness 
+| 2020 | Lenz et al. [Link](https://example.com) | - | 48 | 10 | EV | Face Detection 
+| 2020 | Chen et al. [Link](https://example.com) | NeuroBiometric | 180 | 45 | EV | Authentication 
+| 2022 | Banerjee et al. [Link](https://example.com) | - | 3360 | 6 | RGB-EV | Eye gaze tracking
+| 2022 | Beccattini T al. [Link](https://example.com) | - | 455 | 25 | RGB-EV | MER 
+| 2022 | Tan et al. [Link](https://example.com) | DVS-Lip | 19871 | 40 | EV | Lip Reading 
+| 2022 | Moreira et al. [Link](https://example.com) | NVSFD | 436 | 40 | EV | Identity Recognition 
+| 2023 | Bissarinova et al. [Link](https://example.com) | FES | ∼4000 | 73 | EV | Face Detection 
+| 2023 | Berlincioni et al. [Link](https://example.com) | NEFER | 29 | 105 | RGB-EV | MER 
+| 2023 | Kanamaru et al. [Link](https://example.com) | - | 1500 | 20 | EV | Lip Reading 
+| 2024 | Adra et al. [Link](https://example.com) | VETEX | 2506 | 30 | RGB-EV-TH | MER
 
 
 ## Synthetic datasets for human-centered applications
