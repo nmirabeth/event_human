@@ -6,7 +6,24 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 
 # Datasets
 
---Here Tables 4 and 5--
+## Real event-based datasets for human-centered applications
+
+| Year | Authors | Name | # Videos # | # People | Modalities | Application | # Classes |
+|------|---------|------|------------|----------|------------|-------------|-----------|
+| 2019 | Miao et al. [Link](https://example.com) | Action Dataset TUM | 291 | 15 | EV | Action Recognition | 10
+|
+| 2019 | Miao et al. [Link](https://example.com) | Action Dataset TUM | 291 | 15 | EV | Action Recognition | 10
+|
+| 2019 | Miao et al. [Link](https://example.com) | Action Dataset TUM | 291 | 15 | EV | Action Recognition | 10
+|
+| 2019 | Miao et al. [Link](https://example.com) | Action Dataset TUM | 291 | 15 | EV | Action Recognition | 10
+|
+| 2019 | Miao et al. [Link](https://example.com) | Action Dataset TUM | 291 | 15 | EV | Action Recognition | 10
+|
+| 2019 | Miao et al. [Link](https://example.com) | Action Dataset TUM | 291 | 15 | EV | Action Recognition | 10
+
+
+## Synthetic datasets for human-centered applications
 
 # Event Data Representations
 
@@ -14,9 +31,11 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 
 # Model Architecture
 
---Here Table 2--
+## Papers presented in this survey, classified by the type of AI architecture used for their models
 
 # Applications
+
+## The table presents applications of event cameras for human data along with an exhaustive selection of relevant works for each category. The applications are categorized into two main areas: face and body.
 
 --Here Table 1--
 
