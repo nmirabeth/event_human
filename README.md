@@ -28,7 +28,7 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 |------|---------|------|------------|----------|------------|-------------|
 | 2016 | [Barua et al.](#miao) | - | - | 40 | EV | Face Detection 
 | 2019 | [Li et al.](#miao) | - | 34000 | 34 | EV-audio | Lip Reading 
-| 2020 | [Angelopoulos et al.] (#miao) | - | 24 | 24 | EV | Eye gaze tracking
+| 2020 | [Angelopoulos et al.](#miao) | - | 24 | 24 | EV | Eye gaze tracking
 | 2020 | [Chen et al.](#miao) | EDDD | 260 | 26 | EV | Drowsiness 
 | 2020 | [Lenz et al.](#miao) | - | 48 | 10 | EV | Face Detection 
 | 2020 | [Chen et al.](#miao) | NeuroBiometric | 180 | 45 | EV | Authentication 
@@ -62,8 +62,8 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 | 2022 | [Moreira et al.](#miao)| SynFED | 6536 | 30 | Identity Recognition 
 | 2023 | [Barchid et al.](#miao) | ADFES | 198 | 22 | Face Expression Recognition
 | 2023 | [Barchid et al.](#miao) | Oulu-CASIA | 480 | 80 | Face Expression Recognition
-| 2023 | [Barchid et al.](#miao), [Verschae and Bugueno-Cordova](#miao) | e-CK+ | 327 | 93 | Face Expression Recognition
-| 2023 | [Barchid et al.](#miao), [Verschae and Bugueno-Cordova](#miao) |e-MMI | 2900+ | 75 | Face Expression Recognition
+| 2023 | [Barchid et al.](#miao)  [Verschae and Bugueno-Cordova](#miao) | e-CK+ | 327 | 93 | Face Expression Recognition
+| 2023 | [Barchid et al.](#miao)  [Verschae and Bugueno-Cordova](#miao) |e-MMI | 2900+ | 75 | Face Expression Recognition
 | 2023 | [Ryan et al.](#miao) | - | - | 5 | Multitask Facial Analysis
 | 2024 | [Tan et al.](#miao) | DVS-LRW100 | 107664 | - | Lip Reading
 
