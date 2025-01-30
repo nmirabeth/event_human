@@ -71,29 +71,20 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 
 | Name | Details | 
 |------|---------|
-| Event Count | Event data is aggregated by counting the number of events that occur at each pixel within a fixed time interval.
-This approach provides a straightforward summary of activity, often used as a baseline representation.
-| Event Histogram | Similar to the event count, but instead of a single time interval, events are grouped and counted in temporal
-bins, creating a distribution of event activity that captures variations with more levels of detail.
-| Time Surface / Surface of Active Events | Represents data as a continuous map where each pixel value corresponds to the most recent timestamp of an
-event at that location. This highlights recent activity and is often used to track motion or identify edges.
-| Memory Surface | Event data are represented as a temporal map where each pixel’s value indicates the time elapsed since the
-last event occurred at that location within a fixed time window. This approach encodes temporal information
-by retaining a ”memory” of inactivity, making it useful for identifying patterns, and tracking regions with
+| Event Count | Event data is aggregated by counting the number of events that occur at each pixel within a fixed time interval. This approach provides a straightforward summary of activity, often used as a baseline representation.
+| Event Histogram | Similar to the event count, but instead of a single time interval, events are grouped and counted in temporal bins, creating a distribution of event activity that captures variations with more levels of detail.
+| Time Surface / Surface of Active Events | Represents data as a continuous map where each pixel value corresponds to the most recent timestamp of an event at that location. This highlights recent activity and is often used to track motion or identify edges.
+| Memory Surface | Event data are represented as a temporal map where each pixel’s value indicates the time elapsed since the last event occurred at that location within a fixed time window. This approach encodes temporal information by retaining a ”memory” of inactivity, making it useful for identifying patterns, and tracking regions with
 recent or ongoing motion. 
-| Voxel Grid | Event data is sliced temporally into small time intervals, creating a sequence of event slices. These slices are
-then stacked into a 3D grid, where each voxel represents the activity in a spatial region during a specific time
+| Voxel Grid | Event data is sliced temporally into small time intervals, creating a sequence of event slices. These slices are then stacked into a 3D grid, where each voxel represents the activity in a spatial region during a specific time
 window. This allows for preserving both spatial and temporal resolution. 
 | Spike Tensor | Represents data as binary tensors indicating the occurrence of spikes in specific spatiotemporal locations.
 The tensor is separated into two channels for positive and negative polarities.
 | Graph | Represents data as a graph, where events are treated as nodes in a graph with polarity as the node feature.
-Then, edges are created between nodes to represent spatiotemporal relationships, often used for tasks like
-pattern recognition.
+Then, edges are created between nodes to represent spatiotemporal relationships, often used for tasks like pattern recognition.
 | E2VID Frame | Represents data as reconstructed frames by using neural networks to convert the sparse event stream into
 intensity frames. This allows event data to be used with traditional frame-based computer vision methods.
-| Temporal Binary Representation | Events are first stacked together into intermediate binary representations where each pixel can be considered
-as a binary string. These frames are then grouped into a single frame by applying binary to decimal conversion.
-Most popular in face analysis applications.
+| Temporal Binary Representation | Events are first stacked together into intermediate binary representations where each pixel can be considered as a binary string. These frames are then grouped into a single frame by applying binary to decimal conversion. Most popular in face analysis applications.
 
 # Model Architecture
 
