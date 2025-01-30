@@ -11,7 +11,7 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 
 | Year | Authors | Name | #Videos | #People | Modalities | Application | #Classes |
 |------|---------|------|------------|----------|------------|-------------|-----------|
-| 2019 | Miao et al. [Link](https://example.com) | Action Dataset TUM | 291 | 15 | EV | Action Recognition | 10
+| 2019 | [Miao et al.](https://example.com) | Action Dataset TUM | 291 | 15 | EV | Action Recognition | 10
 | 2019 | Goyal et al. [Link](https://example.com) | DHP19 | 2244 | 17 | EV | Pose Estimation | -
 | 2019 | Wang et al. [Link](https://example.com) | DVS128-Gait-Day | 4000 | 20 | EV | Gait Recognition | -
 | 2019 | Wang et al. [Link](https://example.com) | DVS128-Gait-Night | 4000 | 20 | EV | Gait Recognition | -
