@@ -118,8 +118,8 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 
 | Human Tracking | Gait Recognition | Action Recognition | Pose Estimation |
 |------------------------------------------|-------------------------------------|-----------------------------------------------|------------------------------|
-| [Eisl et al. (2023)](#eisl2023)          | [Wang et al. (2021)](#wang2021)                  | [Liu et al. (2021)](#liu2021)                    | [Sokolova and Konushin(2019)](#sokolova2019)               
-| [Xu et al. (2020)](#xu2020)              | [Sokolova and Konushin(2019)](#sokolova2019)     | [Plizzari et al. (2022)](#plizzari2022)          | [Zou et al. (2023)](#zou2023)   
+| [Eisl et al. (2023)](#eisl2023)          | [Wang et al. (2021)](#wang2021)                  | [Liu et al. (2021)](#liu2021)                    | [Sokolova and Konushin (2019)](#sokolova2019)               
+| [Xu et al. (2020)](#xu2020)              | [Sokolova and Konushin (2019)](#sokolova2019)     | [Plizzari et al. (2022)](#plizzari2022)          | [Zou et al. (2023)](#zou2023)   
 |                                          | [Wang et al. (2021)](#wang2021)                  | [Ren et al. (2023a)](#ren2023a)                  | [Goyal et al. (2023)](#goyal2023)  
 |                                          | [Eddine and Dugelay (2022)](#dugelay2022)        | [Ren et al. (2023b)](#ren2023b)                  | [Kohyama et al. (2024)](#kohyama2024)       
 |                                          | [Fu and Yan (2023)](#fun2023)                    | [de Blegiers et al. (2023)](#deblegiers2023)     |                                                  
@@ -139,8 +139,8 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 | [Ryan et al. (2021)](#ryan2021)          |                                       | [Rios-Navarro et al. (2023)](#rios2023)       | [Angelopoulos et al. (2020)](#angel2020)     | [Berlincioni et al. (2023)](#berlin2023)
 | [Bissarinova et al. (2023)](#bissa2023)  |                                       | [Savran (2023)](#savran2023)                  | [Ryan et al. (2021)](#ryan2021)              | [Guo and Huang (2023)](#hang2023)    
 | [Ryan et al. (2023)](#ryan2023)          |                                       | [Kanamaru et al. (2023)](#kanamaru2023)       | [Banerjee et al. (2022)](#banerjee2022)      | [Xiao et al. (2024)](#xiao2024)          
-| [Himmi et al. (2024)](#himmi2024)        |                                       | [Bulzomi et al. (2023)](#bulzomi2023)         | [Iddrisu et al.(2024)](#iddrisu2024)         | [Cultrera et al. (2023)](#cultrera2024)        
-| [Iddrisu et al.(2024)](#iddrisu2024b)     |                                       | [Moreira et al. (2022)](#moreira2022)         |                                              | [Adra et al. (2024)](#adra2024b)  
+| [Himmi et al. (2024)](#himmi2024)        |                                       | [Bulzomi et al. (2023)](#bulzomi2023)         | [Iddrisu et al. (2024)](#iddrisu2024)         | [Cultrera et al. (2023)](#cultrera2024)        
+| [Iddrisu et al. (2024)](#iddrisu2024b)     |                                       | [Moreira et al. (2022)](#moreira2022)         |                                              | [Adra et al. (2024)](#adra2024b)  
 
 
 
