@@ -40,7 +40,7 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 | 2023 | [Bissarinova et al. (2023)](#bissa2023) | FES | ∼4000 | 73 | EV | Face Detection 
 | 2023 | [Berlincioni et al. (2023)](#berlincioni2023) | NEFER | 29 | 105 | RGB-EV | MER 
 | 2023 | [Kanamaru et al. (2023)](#kanamaru2023) | - | 1500 | 20 | EV | Lip Reading 
-| 2024 | [Adra et al. (2024b)](#adra2024b) | VETEX | 2506 | 30 | RGB-EV-TH | MER
+| 2024 | [Adra et al. (2024)](#adra2024b) | VETEX | 2506 | 30 | RGB-EV-TH | MER
 
 
 ## Synthetic datasets for human-centered applications
@@ -48,25 +48,25 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 
 | Year | Authors | Name | #Videos | #People | Application | #Classes |
 |------|---------|------|---------|---------|-------------|----------|
-| 2019 | [Wang et al.](#wang2019)| EV-CASIA-B | 8184 | 124 | Gait Recognition | -
-| 2020 | [Bi et al.](#bi2020) | HMDB51-DVS | 6766 | - | Action Recognition | 51
-| 2020 | [Bi et al.](#bi2020) | UCF101-DVS | 13320 | - | Action Recognition | 101
-| 2022 | [Plizzari et al.](#plizzari2022) | N-EPIC-Kitchens | 64 | - | Action Recognition | 8
-| 2023 | [Zou et al.](#zou2023) | SynEventHPD | 9197 | 47 | Pose Estimation | -
-| 2023 | [Goyal et al.](#goyal2023) | eH36m | 748 | 7 | Pose Estimation | -
+| 2019 | [Wang et al. (2019)](#wang2019)| EV-CASIA-B | 8184 | 124 | Gait Recognition | -
+| 2020 | [Bi et al. (2020)](#bi2020) | HMDB51-DVS | 6766 | - | Action Recognition | 51
+| 2020 | [Bi et al. (2020)](#bi2020) | UCF101-DVS | 13320 | - | Action Recognition | 101
+| 2022 | [Plizzari et al. (2022)](#plizzari2022) | N-EPIC-Kitchens | 64 | - | Action Recognition | 8
+| 2023 | [Zou et al. (2023)](#zou2023) | SynEventHPD | 9197 | 47 | Pose Estimation | -
+| 2023 | [Goyal et al. (2023)](#goyal2023) | eH36m | 748 | 7 | Pose Estimation | -
 
 
 ### Face Datasets
 
 | Year | Authors | Name | #Videos | #People | Application |
 |------|---------|------|------------|----------|---------|
-| 2022 | [Moreira et al.](#moreira2022)| SynFED | 6536 | 30 | Identity Recognition 
-| 2023 | [Barchid et al.](#barchid2023) | ADFES | 198 | 22 | Face Expression Recognition
-| 2023 | [Barchid et al.](#barchid2023) | Oulu-CASIA | 480 | 80 | Face Expression Recognition
-| 2023 | [Barchid et al.](#barchid2023) ; [Verschae and Bugueno-Cordova](#verschae2023) | e-CK+ | 327 | 93 | Face Expression Recognition
-| 2023 | [Barchid et al.](#barchid2023) ; [Verschae and Bugueno-Cordova](#verschae2023) |e-MMI | 2900+ | 75 | Face Expression Recognition
-| 2023 | [Ryan et al.](#ryan2023) | - | - | 5 | Multitask Facial Analysis
-| 2024 | [Tan et al.](#tan2024) | DVS-LRW100 | 107664 | - | Lip Reading
+| 2022 | [Moreira et al. (2022)](#moreira2022)| SynFED | 6536 | 30 | Identity Recognition 
+| 2023 | [Barchid et al. (2023)](#barchid2023) | ADFES | 198 | 22 | Face Expression Recognition
+| 2023 | [Barchid et al. (2023)](#barchid2023) | Oulu-CASIA | 480 | 80 | Face Expression Recognition
+| 2023 | [Barchid et al. (2023)](#barchid2023) ; [Verschae and Bugueno-Cordova](#verschae2023) | e-CK+ | 327 | 93 | Face Expression Recognition
+| 2023 | [Barchid et al. (2023)](#barchid2023) ; [Verschae and Bugueno-Cordova](#verschae2023) |e-MMI | 2900+ | 75 | Face Expression Recognition
+| 2023 | [Ryan et al. (2023)](#ryan2023) | - | - | 5 | Multitask Facial Analysis
+| 2024 | [Tan et al. (2024)](#tan2024) | DVS-LRW100 | 107664 | - | Lip Reading
 
 # Event Data Representations
 
@@ -90,11 +90,11 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
 | [Liu et al. (2021)](#liu2021)            | [Wang et al. (2021)](#wang2021)     | [Li et al. (2019)](#li2019)                   | [Xu et al. (2020)](#xu2020)                  | [Barua et al. (2016)](#barua2016) 
 | [Barchid et al. (2023)](#barchid2023)    | [Eisl et al. (2023)](#eisl2023)     | [Wang et al. (2019)](#wang2019)               | [de Blegiers et al. (2023)](#deblegiers2023) | [Savran et al. (2018)](#savran2018)
-| [Ren et al. (2023)](#ren2023)            | [Fu and Yan (2023)](#fun2023)       | [Sokolova and Konushin (2019)](#sokolova2019) | [Zou et al. (2023)](#zou2023)                | [Lenz et al. (2020)](#lenz2020)
-| [Bulzomi et al. (2023)](#bulzomi2023)        | [Gao et al. (2024)](#gao2024)       | [Ryan et al. (2021)](#ryan2021)               | [Cultrera et al. (2023)](#cultrera2024)      | [Chen et al. (2020)](#chen2020)
+| [Ren et al. (2023b)](#ren2023b)            | [Fu and Yan (2023)](#fun2023)       | [Sokolova and Konushin (2019)](#sokolova2019) | [Zou et al. (2023)](#zou2023)                | [Lenz et al. (2020)](#lenz2020)
+| [Bulzomi et al. (2023)](#bulzomi2023)        | [Gao et al. (2024)](#gao2024)       | [Ryan et al. (2021)](#ryan2021)               | [Cultrera et al. (2023)](#cultrera2024)      | [Chen et al. (2020b)](#chen2020b)
 | [Tao et al. (2024)](#tao2024)           |                                     | [Banerjee et al. (2022)](#banerjee2022)       |                                              | [Angelopoulos et al. (2020)](#angel2020)             
 | [Vicente-Sola et al. (2025)](#vicente2025)   |                                     | [Becattini et al. (2022)](#becattini2022)     |                                              | [Eddine and Dugelay (2022)](#dugelay2022)           
-|                                          |                                     | [Moreira et al. (2022)](#moreira2022)         |                                              | [Ren et al. (2023)](#ren2023) 
+|                                          |                                     | [Moreira et al. (2022)](#moreira2022)         |                                              | [Ren et al. (2023a)](#ren2023a) 
 |                                          |                                     | [Plizzari et al. (2022)](#plizzari2022)       |                                              | [Guo and Huang (2023)](#hang2023)            
 |                                          |                                     | [Ryan et al. (2023)](#ryan2023)               |                                              | [Savran (2023)](#savran2023)            
 |                                          |                                     | [Gao et al. (2023)](#gao2023)                 |                                              | [Himmi et al. (2024)](#himmi2024)  
