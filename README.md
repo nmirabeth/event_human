@@ -169,7 +169,7 @@ drowsiness driving detection through facial motion analysis with neuromorphic vi
 - <a id="berlincioni2023"></a> Berlincioni, L., Cultrera, L., Albisani, C., Cresti, L., Leonardo, A., Picchioni, S., et al. (2023).Neuromorphic event-based facial expression recognition
 - <a id="kanamaru2023"></a> Kanamaru, T., Arakane, T., and Saitoh, T. (2023). Isolated single sound lip-reading using a
 frame-based camera and event-based camera
-- <a id="adra2024b"></a> Adra, M., Mirabet-Herranz, N., and Dugelay, J.-L. (2024b). Beyond rgb: Tri-modal
+- <a id="adra2024b"></a> Adra, M., Mirabet-Herranz, N., and Dugelay, J.-L. (2024). Beyond rgb: Tri-modal
 microexpression recognition with rgb, thermal, and event data
 - <a id="bi2020"></a> Bi, Y., Chadha, A., Abbas, A., Bourtsoulatze, E., and Andreopoulos, Y. (2020). Graph-based
 spatio-temporal feature learning for neuromorphic vision sensing
@@ -193,7 +193,7 @@ cloud network for lightweight action recognition with event cameras. In Proceedi
 International Symposium on Circuits and Systems (ISCAS) (IEEE), 1–5
 - <a id="xiao2024"></a> Xiao, P., Zhang, Y., Kai, D., Peng, Y., Zhang, Z., and Sun, X. (2024). Estme: Event-driven spatio-temporal motion enhancement for micro-expression recognition. In 2024 IEEE International Conference on Multimedia and Expo (ICME) (IEEE), 1–6
 - <a id="kohyama2024"></a> Kohyama, K., Shiba, S., and Aoki, Y. (2024). 3d human scan with a moving event camera. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 5586–5596
-- <a id="iddrisu2024b"></a> Iddrisu, K., Shariff, W., OConnor, N. E., Lemley, J., and Little, S. (2024b). Evaluating
+- <a id="iddrisu2024b"></a> Iddrisu, K., Shariff, W., OConnor, N. E., Lemley, J., and Little, S. (2024). Evaluating
 image-based face and eye tracking with event cameras
 - <a id="deblegiers2023"></a> de Blegiers, T., Dave, I. R., Yousaf, A., and Shah, M. (2023). Eventtransact: A video transformer-based framework for event-camera based action recognition. In 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (IEEE), 1–7
 - <a id="cultrera2024"></a> Cultrera, L., Becattini, F., Berlincioni, L., Ferrari, C., and Del Bimbo, A. (2024). Spatio-temporal transformers for action unit classification with event cameras. arXiv preprint arXiv:2410.21958
