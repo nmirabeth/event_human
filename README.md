@@ -165,8 +165,8 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 | **Microexpression & Emotion Recognition** | [Becattini et al. (2022)](#becattini2022)       | Event data outperforms RGB for detecting three types of expressions: Positive, Neutral, Negative | Up to 9% increase in accuracy |
 |                                      | [Berlincioni et al. (2023)](#berlincioni2023)          | Event performs better than RGB in emotion recognition | Up to 15% increase in accuracy |
 |                                      | [Xiao et al. (2024)](#xiao2024)                 | Event and RGB are fused to the network | 1% increase in accuracy |
-|                                      | [Cultrera et al. (2024)](#cultrra2024)              | For the first time, results on event data deliver better performance | For 6 out of 24 action units, event data is more accurate |
-|                                      | [Adra et al. (2024)](#adra2024)                | Event data gives higher recognition than RGB | Up to 13% increase in accuracy |
+|                                      | [Cultrera et al. (2024)](#cultrera2024)              | For the first time, results on event data deliver better performance | For 6 out of 24 action units, event data is more accurate |
+|                                      | [Adra et al. (2024)](#adra2024b)                | Event data gives higher recognition than RGB | Up to 13% increase in accuracy |
 
 
 
