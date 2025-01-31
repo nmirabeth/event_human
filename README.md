@@ -149,58 +149,75 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 ## Bibliography
 
 - <a id="miao2019"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="calabrese2019"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="wang2021"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="wang2019"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="dugelay2022"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="liu2021"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="gao2023"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="gao2024"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="wang2025"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="angelopoulos2020"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="chen2020a"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="chen2020b"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="tan2022"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="tan2024"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="bissa2023"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="berlincioni2023"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="kanamaru2023"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="adra2024b"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="bi2020"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="plizzari2022"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="zou2023"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="goyal2023"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="verschae2023"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="ryan2023"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="ren2023a"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="ren2023b"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="bulzomi2023"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="vicente2025"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="eisl2023"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="fu2023"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="tan2022"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="rios2023"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="xiao2024"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="kohyama2024"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="iddrisu2024b"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="deblegiers2023"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="cultrera2024"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="guo2023"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="savran2023"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="himmi2024"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="tao2024"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="barchid2023"></a>Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="eisl2023"></a>Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="li2019"></a>Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="xu2020"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="barua2016"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="savran2018"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="lenz2020"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="sokolova2019"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="ryan2021"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="banerjee2022"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="becattini2022"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
-- <a id="moreira2022"></a> Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., et al. (2019). Neuromorphic vision datasets for pedestrian detection, action recognition, and fall detection
+- <a id="calabrese2019"></a> Calabrese, E., Taverni, G., Easthope, C. A., Skriabine, S., Corradi, F., Longinotti, L., et al. (2019). Dhp19: Dynamic vision sensor 3d human pose dataset
+- <a id="wang2019"></a> Wang, Y., Du, B., Shen, Y., Wu, K., Zhao, G., Sun, J., et al. (2019). Ev-gait: Event-based robust gait recognition using dynamic vision sensors
+- <a id="wang2021"></a> Wang, Y., Zhang, X., Shen, Y., Du, B., Zhao, G., Cui, L., et al. (2021). Event-stream representation for human gaits identification using deep neural networks (IEEE), vol. 44, 3436–3449
+- <a id="dugelay2022"></a> Eddine, M. J. and Dugelay, J.-L. (2022). Gait3: An event-based, visible and thermal database for gait recognition
+- <a id="liu2021"></a> Liu, Q., Xing, D., Tang, H., Ma, D., and Pan, G. (2021). Event-based action recognition using motion information and spiking neural networks.
+- <a id="gao2023"></a> Gao, Y., Lu, J., Li, S., Ma, N., Du, S., Li, Y., et al. (2023). Action recognition and benchmark
+using event cameras
+- <a id="gao2024"></a> Gao, Y., Lu, J., Li, S., Li, Y., and Du, S. (2024). Hypergraph-based multi-view action recognition using event cameras
+- <a id="wang2025"></a> Wang, Q., Xu, Z., Lin, Y., Ye, J., Li, H., Zhu, G., et al. (2025). Dailydvs-200: A comprehensive
+benchmark dataset for event-based action recognition
+- <a id="angelopoulos2020"></a> Angelopoulos, A. N., Martel, J. N., Kohli, A. P., Conradt, J., and Wetzstein, G. (2020). Event-based near-eye gaze tracking beyond 10,000 hz
+- <a id="chen2020a"></a> Chen, G., Hong, L., Dong, J., Liu, P., Conradt, J., and Knoll, A. (2020a). Eddd: Event-based
+drowsiness driving detection through facial motion analysis with neuromorphic vision sensor
+- <a id="chen2020b"></a> Chen, G., Wang, F., Yuan, X., Li, Z., Liang, Z., and Knoll, A. (2020b). Neurobiometric: an eye blink based biometric authentication system using an event-based neuromorphic vision sensor
+- <a id="tan2022"></a> Tan, G., Wang, Y., Han, H., Cao, Y., Wu, F., and Zha, Z. J. (2022). Multi-grained spatio-temporal features perceived network for event-based lip-reading
+- <a id="tan2024"></a> Tan, G., Wan, Z., Wang, Y., Cao, Y., and Zha, Z. J. (2024). Tackling event-based lip-reading by exploring multigrained spatiotemporal clues. IEEE Transactions on Neural Networks and Learning Systems
+- <a id="bissa2023"></a> Bissarinova, U., Rakhimzhanova, T., Kenzhebalin, D., and Varol, H. A. (2023). Faces in event streams(fes): An annotated face dataset for event cameras (Authorea)
+- <a id="berlincioni2023"></a> Berlincioni, L., Cultrera, L., Albisani, C., Cresti, L., Leonardo, A., Picchioni, S., et al. (2023).Neuromorphic event-based facial expression recognition
+- <a id="kanamaru2023"></a> Kanamaru, T., Arakane, T., and Saitoh, T. (2023). Isolated single sound lip-reading using a
+frame-based camera and event-based camera
+- <a id="adra2024b"></a> Adra, M., Mirabet-Herranz, N., and Dugelay, J.-L. (2024b). Beyond rgb: Tri-modal
+microexpression recognition with rgb, thermal, and event data
+- <a id="bi2020"></a> Bi, Y., Chadha, A., Abbas, A., Bourtsoulatze, E., and Andreopoulos, Y. (2020). Graph-based
+spatio-temporal feature learning for neuromorphic vision sensing
+- <a id="plizzari2022"></a> Plizzari, C., Planamente, M., Goletto, G., Cannici, M., Gusso, E., Matteucci, M., et al. (2022).
+E2 (go) motion: Motion augmented event stream for egocentric action recognition
+- <a id="zou2023"></a> Zou, S., Mu, Y., Zuo, X., Wang, S., and Cheng, L. (2023). Event-based human pose tracking by spiking spatiotemporal transformer
+- <a id="goyal2023"></a> Goyal, G., Di Pietro, F., Carissimi, N., Glover, A., and Bartolozzi, C. (2023). Moveenet: Online
+high-frequency human pose estimation with an event camera
+- <a id="verschae2023"></a> Verschae, R. and Bugueno-Cordova, I. (2023). Event-based gesture and facial expression
+recognition: A comparative analysis
+- <a id="ryan2023"></a> Ryan, C., Elrasad, A., Shariff, W., Lemley, J., Kielty, P., Hurney, P., et al. (2023). Real-time multi-task facial analytics with event cameras. IEEE Access
+- <a id="ren2023a"></a> Ren, H., Zhou, Y., Fu, H., Huang, Y., Xu, R., and Cheng, B. (2023a). Ttpoint: A tensorized point
+cloud network for lightweight action recognition with event cameras. In Proceedings of the 31st ACM International Conference on Multimedia. 8026–8034
+- <a id="ren2023b"></a> Ren, H., Zhou, Y., Huang, Y., Fu, H., Lin, X., Song, J., et al. (2023b). Spikepoint: An efficient point-based spiking neural network for event cameras action recognition. arXiv preprint arXiv:2310.07189
+- <a id="bulzomi2023"></a> Bulzomi, H., Schweiker, M., Gruel, A., and Martinet, J. (2023). End-to-end neuromorphic lip-reading. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 4101–4108
+- <a id="vicente2025"></a> Vicente-Sola, A., Manna, D. L., Kirkland, P., Di Caterina, G., and Bihl, T. J. (2025). Spiking neural networks for event-based action recognition: A new task to understand their advantage. Neurocomputing 611, 128657
+- <a id="eisl2023"></a> Eisl, D., Herzog, F., Dugelay, J.-L., Apvrille, L., and Rigoll, G. (2023). Introducing a framework for single-human tracking using event-based cameras. In 2023 IEEE International Conference on Image Processing (ICIP) (IEEE), 3269–3273
+- <a id="fu2023"></a> Fu, L. and Yan, S. (2023). Hypergraph neural network for gait recognition based on event camera. In Third International Conference on Advanced Algorithms and Signal Image Processing (AASIP 2023) (SPIE), vol. 12799, 1151–1155
+- <a id="tan2022"></a> Tan, G., Wang, Y., Han, H., Cao, Y., Wu, F., and Zha, Z. J. (2022). Multi-grained spatio-temporal features perceived network for event-based lip-reading
+- <a id="rios2023"></a> Rios-Navarro, A., Pi ˜nero-Fuentes, E., Canas-Moreno, S., Javed, A., Harkin, J., and Linares-Barranco, A.(2023). Lipsfus: A neuromorphic dataset for audio-visual sensory fusion of lip reading. In 2023 IEEE
+International Symposium on Circuits and Systems (ISCAS) (IEEE), 1–5
+- <a id="xiao2024"></a> Xiao, P., Zhang, Y., Kai, D., Peng, Y., Zhang, Z., and Sun, X. (2024). Estme: Event-driven spatio-temporal motion enhancement for micro-expression recognition. In 2024 IEEE International Conference on Multimedia and Expo (ICME) (IEEE), 1–6
+- <a id="kohyama2024"></a> Kohyama, K., Shiba, S., and Aoki, Y. (2024). 3d human scan with a moving event camera. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 5586–5596
+- <a id="iddrisu2024b"></a> Iddrisu, K., Shariff, W., OConnor, N. E., Lemley, J., and Little, S. (2024b). Evaluating
+image-based face and eye tracking with event cameras
+- <a id="deblegiers2023"></a> de Blegiers, T., Dave, I. R., Yousaf, A., and Shah, M. (2023). Eventtransact: A video transformer-based framework for event-camera based action recognition. In 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (IEEE), 1–7
+- <a id="cultrera2024"></a> Cultrera, L., Becattini, F., Berlincioni, L., Ferrari, C., and Del Bimbo, A. (2024). Spatio-temporal transformers for action unit classification with event cameras. arXiv preprint arXiv:2410.21958
+- <a id="guo2023"></a> Guo, C. and Huang, H. (2023). Gleffn: A global-local event feature fusion network for micro-expression recognition. In Proceedings of the 3rd Workshop on Facial Micro-Expression: Advanced Techniques for
+Multi-Modal Facial Expression Analysis. 17–24
+- <a id="savran2023"></a> Savran, A. (2023). Fully convolutional event-camera voice activity detection based on event intensity. In 2023 Innovations in Intelligent Systems and Applications Conference (ASYU) (IEEE), 1–6
+- <a id="himmi2024"></a> Himmi, S., Parret, V., Chhatkuli, A., and Van Gool, L. (2024). Ms-evs: Multispectral event-based vision for deep learning based face detection. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 616–625
+- <a id="tao2024"></a> Tao, Y., Chang, C.-H., Sa¨ıghi, S., and Gao, S. (2024). Gaitspike: Event-based gait recognition with spiking neural network. In 2024 IEEE 6th International Conference on AI Circuits and Systems (AICAS) (IEEE), 357–361
+- <a id="barchid2023"></a> Barchid, S., Allaert, B., Aissaoui, A., Mennesson, J., and Djeraba, C. C. (2023). Spiking-fer: Spiking neural network for facial expression recognition with event cameras. In 20th International Conference on Content-based Multimedia Indexing. 1–7. doi:10.1145/3617233.3617235
+- <a id="li2019"></a> Li, X., Neil, D., Delbruck, T., and Liu, S.-C. (2019). Lip reading deep network exploiting multi-modal spiking visual and auditory sensors
+- <a id="xu2020"></a> Xu, L., Xu, W., Golyanik, V., Habermann, M., Fang, L., and Theobalt, C. (2020). Eventcap: Monocular 3d capture of high-speed human motions using an event camera. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 4968–4978
+- <a id="barua2016"></a> Barua, S., Miyatani, Y., and Veeraraghavan, A. (2016). Direct face detection and video
+reconstruction from event cameras
+- <a id="savran2018"></a> Savran, A., Tavarone, R., Higy, B., Badino, L., and Bartolozzi, C. (2018). Energy and computation
+efficient audio-visual voice activity detection driven by event-cameras. In 2018 13th IEEE International Conference on Automatic Face & Gesture Recognition (FG 2018) (IEEE), 333–340
+- <a id="lenz2020"></a> Lenz, G., Ieng, S.-H., and Benosman, R. (2020). Event-based face detection and tracking using
+the dynamics of eye blinks
+- <a id="sokolova2019"></a> Sokolova, A. and Konushin, A. (2019). Human identification by gait from event-based camera. In 2019 16th International Conference on Machine Vision Applications (MVA) (IEEE), 1–6
+- <a id="ryan2021"></a> Ryan, C., O’Sullivan, B., Elrasad, A., Cahill, A., Lemley, J., Kielty, P., et al. (2021). Real-time face & eye tracking and blink detection using event cameras. Neural Networks 141, 87–97
+- <a id="banerjee2022"></a> Banerjee, A., Prasad, S. S., Mehta, N. K., Kumar, H., Saurav, S., and Singh, S. (2022). Gaze
+detection using encoded retinomorphic events
+- <a id="becattini2022"></a> Becattini, F., Palai, F., and Bimbo, A. D. (2022). Understanding human reactions looking at
+facial microexpressions with an event camera. doi:10.1109/TII.2022.3195063
+- <a id="moreira2022"></a> Moreira, G., Grac¸ a, A., Silva, B., Martins, P., and Batista, J. (2022). Neuromorphic event-based face identity recognition
 
 
 # Acknowledgement
