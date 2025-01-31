@@ -150,23 +150,23 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 
 | Target Application                  | Authors & Year                    | Findings | Improvements of Event |
 |--------------------------------------|------------------------------------|----------|-----------------------|
-| **Gait Recognition**                 | [Wang et al. (2019)](#wang2019)    | For viewing angles 72, 90, and 108, EV-Gait performs better than RGB-based approaches | 3% increase in accuracy |
-|                                      | [Sokolova and Konushin (2019)](#sokolova2019)      | Similar performances reported for Event-based and RGB approaches | - |
-|                                      | [Wang et al. (2021)](#wang2021)                | For viewing angle 90 degrees, EV-Gait-Graph performs better than RGB-based approaches | 0.5% increase in accuracy |
+| **Gait Recognition**                 | [Wang et al. (2019)](#wang2019)    | For viewing angles 72, 90 and 108, EV-Gait performs better than RGB based approaches  | 3% increase in accuracy |
+|                                      | [Sokolova and Konushin (2019)](#sokolova2019)      | Similar perfomances reported for Event-based and RGB approaches | - |
+|                                      | [Wang et al. (2021)](#wang2021)                | For viewing angle 90 degrees, EV-Gait-Graph performs better than RGB based approaches | 0.5% increase in accuracy |
 |                                      | [Eddine and Dugelay (2022)](#dugelay2022)         | Advantage of event data over RGB and thermal for gait recognition | 2% increase in accuracy |
 |                                      | [Tao et al. (2024)](#tao2024)                 | They report the advantage of event over RGB across all different rotation angles for gait recognition | Up to 14% increase in accuracy |
 | **Action Recognition**               | [Plizzari et al. (2022)](#plizzari2022)             | Event data can surpass RGB for action recognition in unseen scenarios on test data | 4% increase in accuracy |
-|                                      | [de Blegiers et al. (2023)](#deblegiers2023)          | Event surpasses RGB action recognition models in different setups | Up to 14% increase in accuracy |
+|                                      | [de Blegiers et al. (2023)](#deblegiers2023)          | Event surpass RGB action recognition models in different setups | Up to 14% increase in accuracy |
 | **Pose Estimation**                  | [Goyal et al. (2023)](#goyal2023)                | Pose estimation from event data surpasses RGB data | Up to 5% increase in accuracy |
 |                                      | [Kohyama et al. (2024)](#kohyama2024)              | Event does not suffer from motion blur as RGB does for 3D-based pose estimation | Error (in mm) is divided by 5 in certain scenarios |
 | **Face Detection**                   | [Barua et al. (2016)](#barua2016)                | Comparable results to Viola-Jones face detector | - |
 |                                      | [Ryan et al. (2023)](#ryan2023)                 | Traditional RGB models perform better on RGB images than on their simulated event data counterpart | - |
 | **Lip Reading**                      | [Kanamaru et al. (2023)](#kanamaru2023)             | They combined event and RGB modalities for lip reading | - |
-| **Microexpression & Emotion Recognition** | [Becattini et al. (2022)](#becattini2022)       | Event data outperforms RGB for detecting three types of expressions: Positive, Neutral, Negative | Up to 9% increase in accuracy |
-|                                      | [Berlincioni et al. (2023)](#berlincioni2023)          | Event performs better than RGB in emotion recognition | Up to 15% increase in accuracy |
-|                                      | [Xiao et al. (2024)](#xiao2024)                 | Event and RGB are fused to the network | 1% increase in accuracy |
-|                                      | [Cultrera et al. (2024)](#cultrera2024)              | For the first time, results on event data deliver better performance | For 6 out of 24 action units, event data is more accurate |
-|                                      | [Adra et al. (2024)](#adra2024b)                | Event data gives higher recognition than RGB | Up to 13% increase in accuracy |
+| **Microexpression & Emotion Recognition** | [Becattini et al. (2022)](#becattini2022)       | Event data overperforms RGB for detecting three types of expressions: Positive, Neutral, Negative | Up to 9% increase in accuracy |
+|                                      | [Berlincioni et al. (2023)](#berlincioni2023)          | Event overperforms RGB in the prediction of seven different emotions | Up to 15% increase in accuracy |
+|                                      | [Xiao et al. (2024)](#xiao2024)                 | Event and RGB are merged as input to the network | 1% increase in accuracy |
+|                                      | [Cultrera et al. (2024)](#cultrera2024)              | For the estimation of some action units event data delivers better performance | For 6 out of 24 action units, event data is more accurate |
+|                                      | [Adra et al. (2024)](#adra2024b)                | Event data gives more information than RGB for microexpression recognition  | Up to 13% increase in accuracy |
 
 
 
