@@ -11,35 +11,35 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 
 | Year | Authors | Name | #Videos | #People | Modalities | Application | #Classes |
 |------|---------|------|------------|----------|------------|-------------|-----------|
-| 2019 | [Miao et al.](#miao) | Action Dataset TUM | 291 | 15 | EV | Action Recognition | 10
-| 2019 | [Goyal et al.](#miao) | DHP19 | 2244 | 17 | EV | Pose Estimation | -
-| 2019 | [Wang et al.](#miao) | DVS128-Gait-Day | 4000 | 20 | EV | Gait Recognition | -
-| 2019 | [Wang et al.](#miao) | DVS128-Gait-Night | 4000 | 20 | EV | Gait Recognition | -
-| 2021 | [Liu et al.](#miao) | DailyAction-DVS | 1440 | 15 | EV | Action Recognition | 12
-| 2022 | [Eddine and Dugelay](#miao) | Gait3 | 168 | 56 | RGB-EV-TH | Gait Recognition | -
-| 2023 | [Gao et al.](#miao) | THU-E-ACT-50 | 10500 | 105 | EV | Action Recognition | 50
-| 2023 | [Gao et al.](#miao)| THU-E-ACT-50-CHL | 2330 | 18 | EV | Action Recognition | 50
-| 2025 | [Wang et al.](#miao) | DailyDVS-200 | 22000 | 46 | RGB-EV | Action Recognition | 200
-| 2024 | [Gao et al.](#miao) | THU-MV-E-ACT-50 | 31500 | 105 | EV | Action Recognition | 50
+| 2019 | [Miao et al. (2019)](#miao2019) | Action Dataset TUM | 291 | 15 | EV | Action Recognition | 10
+| 2019 | [Goyal et al. (2019)](#goyal2019) | DHP19 | 2244 | 17 | EV | Pose Estimation | -
+| 2019 | [Wang et al. (2019)](#wang2019) | DVS128-Gait-Day | 4000 | 20 | EV | Gait Recognition | -
+| 2019 | [Wang et al. (2019)](#wang2019) | DVS128-Gait-Night | 4000 | 20 | EV | Gait Recognition | -
+| 2021 | [Liu et al. (2021)](#liu2021) | DailyAction-DVS | 1440 | 15 | EV | Action Recognition | 12
+| 2022 | [Eddine and Dugelay (2022)](#dugelay2022) | Gait3 | 168 | 56 | RGB-EV-TH | Gait Recognition | -
+| 2023 | [Gao et al. (2023)](#gao2023) | THU-E-ACT-50 | 10500 | 105 | EV | Action Recognition | 50
+| 2023 | [Gao et al. (2023)](#gao2023)| THU-E-ACT-50-CHL | 2330 | 18 | EV | Action Recognition | 50
+| 2025 | [Wang et al. (2025)](#wang2025) | DailyDVS-200 | 22000 | 46 | RGB-EV | Action Recognition | 200
+| 2024 | [Gao et al. (2024)](#gao2024) | THU-MV-E-ACT-50 | 31500 | 105 | EV | Action Recognition | 50
 
 ### Face Datasets
 
 | Year | Authors | Name | #Videos | #People | Modalities | Application |
 |------|---------|------|------------|----------|------------|-------------|
-| 2016 | [Barua et al.](#miao) | - | - | 40 | EV | Face Detection 
-| 2019 | [Li et al.](#miao) | - | 34000 | 34 | EV-audio | Lip Reading 
-| 2020 | [Angelopoulos et al.](#miao) | - | 24 | 24 | EV | Eye gaze tracking
-| 2020 | [Chen et al.](#miao) | EDDD | 260 | 26 | EV | Drowsiness 
-| 2020 | [Lenz et al.](#miao) | - | 48 | 10 | EV | Face Detection 
-| 2020 | [Chen et al.](#miao) | NeuroBiometric | 180 | 45 | EV | Authentication 
-| 2022 | [Banerjee et al.](#miao) | - | 3360 | 6 | RGB-EV | Eye gaze tracking
-| 2022 | [Beccattini et al.](#miao) | - | 455 | 25 | RGB-EV | MER 
-| 2022 | [Tan et al.](#miao) | DVS-Lip | 19871 | 40 | EV | Lip Reading 
-| 2022 | [Moreira et al.](#miao) | NVSFD | 436 | 40 | EV | Identity Recognition 
-| 2023 | [Bissarinova et al.](#miao) | FES | ∼4000 | 73 | EV | Face Detection 
-| 2023 | [Berlincioni et al.](#miao) | NEFER | 29 | 105 | RGB-EV | MER 
-| 2023 | [Kanamaru et al.](#miao) | - | 1500 | 20 | EV | Lip Reading 
-| 2024 | [Adra et al.](#miao) | VETEX | 2506 | 30 | RGB-EV-TH | MER
+| 2016 | [Barua et al. (2016)](#barua2016) | - | - | 40 | EV | Face Detection 
+| 2019 | [Li et al. (2019)](#li2019) | - | 34000 | 34 | EV-audio | Lip Reading 
+| 2020 | [Angelopoulos et al. (2020)](#angelopoulos2020) | - | 24 | 24 | EV | Eye gaze tracking
+| 2020 | [Chen et al. (2020a)](#chen2020a) | EDDD | 260 | 26 | EV | Drowsiness 
+| 2020 | [Lenz et al. (2020)](#lenz2020) | - | 48 | 10 | EV | Face Detection 
+| 2020 | [Chen et al. (2020b)](#chen2020b) | NeuroBiometric | 180 | 45 | EV | Authentication 
+| 2022 | [Banerjee et al. (2022)](#banerjee2022) | - | 3360 | 6 | RGB-EV | Eye gaze tracking
+| 2022 | [Beccattini et al. (2022)](#beccattini2022) | - | 455 | 25 | RGB-EV | MER 
+| 2022 | [Tan et al. (2022)](#tan2022) | DVS-Lip | 19871 | 40 | EV | Lip Reading 
+| 2022 | [Moreira et al. (2022)](#moreira2022) | NVSFD | 436 | 40 | EV | Identity Recognition 
+| 2023 | [Bissarinova et al. (2023)](#bissa2023) | FES | ∼4000 | 73 | EV | Face Detection 
+| 2023 | [Berlincioni et al. (2023)](#berlincioni2023) | NEFER | 29 | 105 | RGB-EV | MER 
+| 2023 | [Kanamaru et al. (2023)](#kanamaru2023) | - | 1500 | 20 | EV | Lip Reading 
+| 2024 | [Adra et al. (2024b)](#adra2024b) | VETEX | 2506 | 30 | RGB-EV-TH | MER
 
 
 ## Synthetic datasets for human-centered applications
@@ -47,25 +47,25 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 
 | Year | Authors | Name | #Videos | #People | Application | #Classes |
 |------|---------|------|---------|---------|-------------|----------|
-| 2019 | [Wang et al.](#miao)| EV-CASIA-B | 8184 | 124 | Gait Recognition | -
-| 2020 | [Bi et al.](#miao) | HMDB51-DVS | 6766 | - | Action Recognition | 51
-| 2020 | [Bi et al.](#miao) | UCF101-DVS | 13320 | - | Action Recognition | 101
-| 2022 | [Plizzari et al.](#miao) | N-EPIC-Kitchens | 64 | - | Action Recognition | 8
-| 2023 | [Zou et al.](#miao) | SynEventHPD | 9197 | 47 | Pose Estimation | -
-| 2023 | [Goyal et al.](#miao) | eH36m | 748 | 7 | Pose Estimation | -
+| 2019 | [Wang et al.](#wang2019)| EV-CASIA-B | 8184 | 124 | Gait Recognition | -
+| 2020 | [Bi et al.](#bi2020) | HMDB51-DVS | 6766 | - | Action Recognition | 51
+| 2020 | [Bi et al.](#bi2020) | UCF101-DVS | 13320 | - | Action Recognition | 101
+| 2022 | [Plizzari et al.](#plizzari2022) | N-EPIC-Kitchens | 64 | - | Action Recognition | 8
+| 2023 | [Zou et al.](#zou2023) | SynEventHPD | 9197 | 47 | Pose Estimation | -
+| 2023 | [Goyal et al.](#goyal2023) | eH36m | 748 | 7 | Pose Estimation | -
 
 
 ### Face Datasets
 
 | Year | Authors | Name | #Videos | #People | Application |
 |------|---------|------|------------|----------|---------|
-| 2022 | [Moreira et al.](#miao)| SynFED | 6536 | 30 | Identity Recognition 
-| 2023 | [Barchid et al.](#miao) | ADFES | 198 | 22 | Face Expression Recognition
-| 2023 | [Barchid et al.](#miao) | Oulu-CASIA | 480 | 80 | Face Expression Recognition
-| 2023 | [Barchid et al.](#miao) ; [Verschae and Bugueno-Cordova](#miao) | e-CK+ | 327 | 93 | Face Expression Recognition
-| 2023 | [Barchid et al.](#miao) ; [Verschae and Bugueno-Cordova](#miao) |e-MMI | 2900+ | 75 | Face Expression Recognition
-| 2023 | [Ryan et al.](#miao) | - | - | 5 | Multitask Facial Analysis
-| 2024 | [Tan et al.](#miao) | DVS-LRW100 | 107664 | - | Lip Reading
+| 2022 | [Moreira et al.](#moreira2022)| SynFED | 6536 | 30 | Identity Recognition 
+| 2023 | [Barchid et al.](#barchid2023) | ADFES | 198 | 22 | Face Expression Recognition
+| 2023 | [Barchid et al.](#barchid2023) | Oulu-CASIA | 480 | 80 | Face Expression Recognition
+| 2023 | [Barchid et al.](#barchid2023) ; [Verschae and Bugueno-Cordova](#verschae2023) | e-CK+ | 327 | 93 | Face Expression Recognition
+| 2023 | [Barchid et al.](#barchid2023) ; [Verschae and Bugueno-Cordova](#verschae2023) |e-MMI | 2900+ | 75 | Face Expression Recognition
+| 2023 | [Ryan et al.](#ryan2023) | - | - | 5 | Multitask Facial Analysis
+| 2024 | [Tan et al.](#tan2024) | DVS-LRW100 | 107664 | - | Lip Reading
 
 # Event Data Representations
 
