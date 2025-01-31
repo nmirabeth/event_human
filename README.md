@@ -144,7 +144,24 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 
 
 
-# Citing
+# Event-RGB comparison
+
+### Summary of the works included in this survey that compare their event-based networks with RGB-trained models. 
+
+
+
+| Human Tracking | Gait Recognition | Action Recognition | Pose Estimation |
+|------------------------------------------|-------------------------------------|-----------------------------------------------|------------------------------|
+| [Eisl et al. (2023)](#eisl2023)          | [Wang et al. (2021)](#wang2021)                  | [Liu et al. (2021)](#liu2021)                    | [Sokolova and Konushin (2019)](#sokolova2019)               
+| [Xu et al. (2020)](#xu2020)              | [Sokolova and Konushin (2019)](#sokolova2019)     | [Plizzari et al. (2022)](#plizzari2022)          | [Zou et al. (2023)](#zou2023)   
+|                                          | [Wang et al. (2021)](#wang2021)                  | [Ren et al. (2023a)](#ren2023a)                  | [Goyal et al. (2023)](#goyal2023)  
+|                                          | [Eddine and Dugelay (2022)](#dugelay2022)        | [Ren et al. (2023b)](#ren2023b)                  | [Kohyama et al. (2024)](#kohyama2024)       
+|                                          | [Fu and Yan (2023)](#fun2023)                    | [de Blegiers et al. (2023)](#deblegiers2023)     |                                                  
+|                                          | [Tao et al. (2024)](#tao2024)                    | [Gao et al. (2023)](#gao2023)                    |                                                   
+|                                          |                                                  | [Gao et al. (2024)](#gao2024)                    |                                              
+|                                          |                                                  | [Vicente-Sola et al. (2025)](#vicente2025)       |                                                     
+|                                          |                                                  | [Wang et al. (2025)](#wang2025)                  |                                                  
+                 
 
 ## Bibliography
 
