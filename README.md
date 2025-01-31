@@ -140,7 +140,7 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 | [Bissarinova et al. (2023)](#bissa2023)  |                                       | [Savran (2023)](#savran2023)                  | [Ryan et al. (2021)](#ryan2021)              | [Guo and Huang (2023)](#hang2023)    
 | [Ryan et al. (2023)](#ryan2023)          |                                       | [Kanamaru et al. (2023)](#kanamaru2023)       | [Banerjee et al. (2022)](#banerjee2022)      | [Xiao et al. (2024)](#xiao2024)          
 | [Himmi et al. (2024)](#himmi2024)        |                                       | [Bulzomi et al. (2023)](#bulzomi2023)         | [Iddrisu et al.(2024)](#iddrisu2024)         | [Cultrera et al. (2023)](#cultrera2024)        
-| [Iddrisu et al.(2024)](#iddrisu2024)     |                                       | [Moreira et al. (2022)](#moreira2022)         |                                              | [Adra et al. (2024b)](#adra2024b)  
+| [Iddrisu et al.(2024)](#iddrisu2024b)     |                                       | [Moreira et al. (2022)](#moreira2022)         |                                              | [Adra et al. (2024)](#adra2024b)  
 
 
 
