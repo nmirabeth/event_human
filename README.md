@@ -63,8 +63,8 @@ Event cameras, or dynamic vision sensors, capture changes in light intensity asy
 | 2022 | [Moreira et al. (2022)](#moreira2022)| SynFED | 6536 | 30 | Identity Recognition 
 | 2023 | [Barchid et al. (2023)](#barchid2023) | ADFES | 198 | 22 | Face Expression Recognition
 | 2023 | [Barchid et al. (2023)](#barchid2023) | Oulu-CASIA | 480 | 80 | Face Expression Recognition
-| 2023 | [Barchid et al. (2023)](#barchid2023) ; [Verschae and Bugueno-Cordova](#verschae2023) | e-CK+ | 327 | 93 | Face Expression Recognition
-| 2023 | [Barchid et al. (2023)](#barchid2023) ; [Verschae and Bugueno-Cordova](#verschae2023) |e-MMI | 2900+ | 75 | Face Expression Recognition
+| 2023 | [Barchid et al. (2023)](#barchid2023) ; [Verschae and Bugueno-Cordova (2023)](#verschae2023) | e-CK+ | 327 | 93 | Face Expression Recognition
+| 2023 | [Barchid et al. (2023)](#barchid2023) ; [Verschae and Bugueno-Cordova (2023)](#verschae2023) |e-MMI | 2900+ | 75 | Face Expression Recognition
 | 2023 | [Ryan et al. (2023)](#ryan2023) | - | - | 5 | Multitask Facial Analysis
 | 2024 | [Tan et al. (2024)](#tan2024) | DVS-LRW100 | 107664 | - | Lip Reading
 
